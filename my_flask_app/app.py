@@ -3,9 +3,10 @@ from flask import Flask, request, jsonify
 app = Flask(__name__)
 
 books = [
-    {"id": 1, "title": "1984", "author": "George Orwell"},
-    {"id": 2, "title": "To Kill a Mockingbird", "author": "Harper Lee"},
-    {"id": 3, "title": "The Little Prince", "author": "Antoine de St Exupery"}
+    {"id": 1, "title": "harry potte", "author": "Jk Rowling"},
+    {"id": 2, "title": "Ikigai: The Japanese Secret to a Long and Happy Life", "author": "Francesc Miralles and Hector Garcia
+"},
+    {"id": 3, "title": "Master you emotion", "author": "Thibaut Meurisse"}
 
 ]
 
