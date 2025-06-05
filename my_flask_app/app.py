@@ -4,8 +4,7 @@ app = Flask(__name__)
 
 books = [
     {"id": 1, "title": "harry potte", "author": "Jk Rowling"},
-    {"id": 2, "title": "Ikigai: The Japanese Secret to a Long and Happy Life", "author": "Francesc Miralles and Hector Garcia
-"},
+    {"id": 2, "title": "Ikigai: The Japanese Secret to a Long and Happy Life", "author": "Francesc Miralles and Hector Garcia"},
     {"id": 3, "title": "Master you emotion", "author": "Thibaut Meurisse"}
 
 ]
